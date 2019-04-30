@@ -1,0 +1,3 @@
+rootProject.name = 'health_issues_india_2891'
+
+include ':app'
